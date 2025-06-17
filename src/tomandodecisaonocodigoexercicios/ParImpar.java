@@ -1,3 +1,5 @@
+package tomandodecisaonocodigoexercicios;
+
 /*
  * Leia um número e imprima se ele é par ou ímpar.
  */

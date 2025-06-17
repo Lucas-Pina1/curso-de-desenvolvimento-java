@@ -1,3 +1,5 @@
+package conhecendoabaseexercicio;
+
 /*
  * Exercicio 1:
  * 

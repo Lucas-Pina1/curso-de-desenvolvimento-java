@@ -1,3 +1,5 @@
+package conhecendoabaseexercicio;
+
 /*
  * Crie um programa que eia um nome e imprima uma saudação utilizando o
  * Console ao invés do Scanner

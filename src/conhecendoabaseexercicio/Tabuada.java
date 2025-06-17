@@ -1,3 +1,5 @@
+package conhecendoabaseexercicio;
+
 /*
  * Imprimir a tabuada de um número.
  * 

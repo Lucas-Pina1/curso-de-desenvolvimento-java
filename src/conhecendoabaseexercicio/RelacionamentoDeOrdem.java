@@ -1,3 +1,5 @@
+package conhecendoabaseexercicio;
+
 /*
  * Escreva um programa que informe os relacionamentos de ordem existentes entre
  * dois números:

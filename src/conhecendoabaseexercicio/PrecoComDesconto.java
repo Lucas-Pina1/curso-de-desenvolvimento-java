@@ -1,3 +1,5 @@
+package conhecendoabaseexercicio;
+
 /*
  * Imprimir preço de um produto com base no desconto à vista e o vaor economizado.
  * 

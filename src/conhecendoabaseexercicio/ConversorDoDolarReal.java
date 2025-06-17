@@ -1,3 +1,5 @@
+package conhecendoabaseexercicio;
+
 /*
  * Faça um programa que converta um valor em dolár em reais.
  * 

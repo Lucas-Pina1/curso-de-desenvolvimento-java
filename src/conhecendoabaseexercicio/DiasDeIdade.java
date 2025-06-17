@@ -1,3 +1,5 @@
+package conhecendoabaseexercicio;
+
 /* 
  * Escreva um programa que leia uma idade em anos e imprima essa idade em dias.
  * 

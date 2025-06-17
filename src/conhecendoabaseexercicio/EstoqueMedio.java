@@ -1,3 +1,5 @@
+package conhecendoabaseexercicio;
+
 /*
  * Faça um programa para calcular o estoque médio de uma peça, seguindo a fórmula:
  * estoqueMedio = (quantidadeMinima + quantidadeMaxima) / 2
