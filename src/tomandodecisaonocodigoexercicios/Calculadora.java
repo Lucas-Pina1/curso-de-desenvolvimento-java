@@ -46,7 +46,8 @@ public class Calculadora {
     }
 
     if (resultado != 0) {
-      System.out.printf("A %s de %.0f por %.0f é %.1f", menssagemOperacao, primeiroNumero, segundoNumero, resultado);
+      System.out.printf("A %s de %.0f por %.0f é %.1f",
+          menssagemOperacao, primeiroNumero, segundoNumero, resultado);
     }
     sc.close();
   }
